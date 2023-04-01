@@ -7,3 +7,4 @@ D:\C#\DotNet _3\Geometry\Geometry\Geometry\obj\Debug\netcoreapp3.1\Geometry.Asse
 D:\C#\DotNet _3\Geometry\Geometry\Geometry\obj\Debug\netcoreapp3.1\Geometry.csproj.CoreCompileInputs.cache
 D:\C#\DotNet _3\Geometry\Geometry\Geometry\obj\Debug\netcoreapp3.1\Geometry.dll
 D:\C#\DotNet _3\Geometry\Geometry\Geometry\obj\Debug\netcoreapp3.1\Geometry.pdb
+D:\C#\DotNet _3\Geometry\Geometry\Geometry\obj\Debug\netcoreapp3.1\Geometry.csproj.AssemblyReference.cache

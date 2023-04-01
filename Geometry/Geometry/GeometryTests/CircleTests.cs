@@ -12,7 +12,7 @@ namespace GeometryTests
         [TestCaseSource("CreatedCircleRadiusEqualExpectedTestCase")]
         public void TestCircle_CreatedRadiusEqualExpected(Circle circle, double radius)
         {
-            Assert.AreEqual(circle.Radius, radius); ;
+            Assert.AreEqual(circle.Radius, radius);
         }
         public static IEnumerable<TestCaseData> CreatedCircleRadiusEqualExpectedTestCase()
         {

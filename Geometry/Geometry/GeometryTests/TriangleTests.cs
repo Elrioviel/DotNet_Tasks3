@@ -12,7 +12,7 @@ namespace GeometryTests
         public void TestTriangle_CreatedSidesEqualExpected(Triangle triangle, double[] expectedSidesArray)
         {
             Double[] actualSidesArray = new double[] { triangle.FirstSide, triangle.SecondSide, triangle.ThirdSide };
-            Assert.AreEqual(actualSidesArray, expectedSidesArray); ;
+            Assert.AreEqual(actualSidesArray, expectedSidesArray);
         }
         public static IEnumerable<TestCaseData> CreatedTriangleSidesEqualExpectedTestCase()
         {

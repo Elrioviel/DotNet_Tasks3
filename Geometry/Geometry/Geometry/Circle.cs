@@ -7,10 +7,7 @@ namespace Geometry
         const double minLength = 0;
 
         public double Radius;
-        private Circle(double radius)
-        {
-            Radius = radius;
-        }
+        private Circle(double radius) => Radius = radius;
 
         public static Circle Create(double radius)
         {
